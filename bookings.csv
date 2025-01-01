@@ -1,0 +1,2 @@
+booking_id,user_id,restaurant_id,table_id,date,time,party_size
+B001,U001,R001,Table 1,2025-01-01,15:33,2
